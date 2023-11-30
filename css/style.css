@@ -1,9 +1,50 @@
-li {
-    color: green;
+#my-list {
+background-color: blueviolet;
+border: 1px solid black;
+}
+#my-list li {
+color: aquamarine;
+}
+.me {
+    color: red;
+    background: black;
+    }
+#you {
+    color: blueviolet;
+    background: yellow;
+    }
+.foter {
+    background: green;
+    color: orange;
+    }
+#heder {
+border: 3px solid blue;
+}
+button {
+	color: blue;
+}
+.month {
+background: grey; 
+color: blue;
+}
+.week {
+border: 1px solid blueviolet;
+}
+.number { 
+	text-align: center;
+}
+.number1 {
+border: 1px solid green; 
+text-align: center;
+color: red;
+}
+.number2 {
+    border: 1px solid green;
+    text-align: center;
+    }
+.div {
+    color: white;
 }
 p {
-    color: red;
-}
-a {
-    padding: 2px solid black;
+color: aqua;
 }
